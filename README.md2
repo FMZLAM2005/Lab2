@@ -1,0 +1,13 @@
+# ARTI 308 - Lab 2
+
+## Machine Learning Problem
+This project aims to predict whether a passenger survived the Titanic disaster based on passenger information such as age, gender, class, and fare.
+
+This is a classification problem because the target variable (Survived) has two categories: 0 (did not survive) and 1 (survived).
+
+## Dataset
+Titanic Dataset from GitHub (Data Science Dojo).
+
+## Files Included
+- Google Colab Notebook
+- Methodology Diagram
